@@ -1,15 +1,8 @@
 ---
-layout: archive
 title: "Publications"
-permalink: /publications/
-author_profile: true
+date: 2022-12-16T13:32:11+08:00
+draft: false
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
 
 # Preprints
 
@@ -61,4 +54,3 @@ Zhonghui Li; Kaiping Xue; Jian Li; Nenghai Yu; Jianqing Liu; David S. L. Wei; Qi
 Qidong Jia, Kaiping Xue, Zhonghui Li, Mengce Zheng, David S. L. Wei, Nenghai Yu  
 **Quantum Information Processing**, Volume: 20, Article number: 69 (2021)  
 [Online](https://link.springer.com/article/10.1007/s11128-021-03000-8) - [PDF](https://link.springer.com/content/pdf/10.1007/s11128-021-03000-8.pdf?pdf=button)
-

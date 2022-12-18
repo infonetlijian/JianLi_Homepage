@@ -72,14 +72,14 @@ for row, item in publications.iterrows():
     
     md = "---\ntitle: \""   + item.title + '"\n'
     
-    md += """collection: publications"""
+    #md += """collection: publications"""
     
     md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
-    md += "\ndate: " + str(item.pub_date) 
+    #md += "\ndate: " + str(item.pub_date) 
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     

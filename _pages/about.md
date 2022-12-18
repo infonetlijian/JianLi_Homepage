@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "News"
-excerpt: "News"
+title: "Homepage"
+excerpt: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+***
+
+# Bio  
+Jian Li received his B.S. degree from the Department of Electronics and Information Engineering, Anhui University, in 2015, and received Ph.D degree from the Department of Electronic Engineering and Information Science (EEIS), University of Science and Technology of China (USTC), in 2020. From Nov. 2019 to Nov. 2020, he was a visiting scholar with the Department of Electronic and Computer Engineering, University of Florida. He is currently a Post-Doctoral fellow in the School of Cyber Science and Technology, USTC. His research interests include wireless networks, next-generation Internet architecture, and quantum networks.
+
+***  
+
+# News  
 * 2022.8, our paper "Fidelity-Guaranteed Entanglement Routing in Quantum Networks" is accepted by IEEE Transactions on Communications!
 * 2022.8, our papers "Content-Aware Routing based on Cached Content Prediction in Satellite Networks", "Privacy-preserving Truth Discovery with Outlier Detection in Mobile Crowdsensing Systems", "Forward Private Multi-Client Searchable Encryption with Efficient Access Control in Cloud Storage" are accepted by Globecom 2022!
 * 2022.7, our paper "An Asynchronous Entanglement Distribution Protocol for Quantum Networks" is accepted by IEEE Network!
@@ -29,11 +37,8 @@ redirect_from:
 * 2020.12, I become a PostDoctoral Researcher in University of Science and Technology of China.
 * 2020.11, I successfully defense of my doctoral dissertation and get my Ph.D!
 
-Bio
-------
-Jian Li received his B.S. degree from the Department of Electronics and Information Engineering, Anhui University, in 2015, and received Ph.D degree from the Department of Electronic Engineering and Information Science (EEIS), University of Science and Technology of China (USTC), in 2020. From Nov. 2019 to Nov. 2020, he was a visiting scholar with the Department of Electronic and Computer Engineering, University of Florida. He is currently a Post-Doctoral fellow in the School of Cyber Science and Technology, USTC. His research interests include wireless networks, next-generation Internet architecture, and quantum networks.
+***  
 
-
-For more info
+# For more info
 ------
 More info about our research team can be found in the following website: [INFONET](http://if.ustc.edu.cn/index.php). 
