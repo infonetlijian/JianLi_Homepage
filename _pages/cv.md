@@ -48,6 +48,7 @@ Research Projects
 * 在轨自主组网技术与通信服务框架研究
   * 中科院先导培育项目, 2016.01-2022.12, 参与
 
+<div style="display:none">
 Selected Publications
 ======
   <ul>{% for post in site.publications %}
@@ -59,7 +60,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+</div>
+
 Service and leadership
 ======
 * Reviewer: IEEE TCOM, TWC, IEEE TVT, IEEE TNSM, IEEE Network, IET Communications, IEEE Globecom, IEEE ICC
