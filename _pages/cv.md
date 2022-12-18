@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+***
+
 Education
 ======
 * Ph.D in University of Science and Technology of China, 2015.09 - 2020.12
@@ -16,6 +18,8 @@ Education
   * Supervisor: Prof. Yongdong Zhang / Prof. [Kaiping Xue](http://staff.ustc.edu.cn/~kpxue/)
 * B.S. in Anhui University, 2011.09 - 2015.06
   * Major: Communication Engineering
+
+***
 
 Work experience
 ======
@@ -31,6 +35,8 @@ Work experience
   * Gainesville, FL, United States
   * Supervisor: [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/) (IEEE Fellow, AAAS Fellow)
   
+***
+
 Research Projects
 ======
 * 天地一体化信息网络中的缓存使能高效内容传输研究
@@ -48,6 +54,8 @@ Research Projects
 * 在轨自主组网技术与通信服务框架研究
   * 中科院先导培育项目, 2016.01-2022.12, 参与
 
+***
+
 <div style="display:none">
 Selected Publications
 ======
@@ -62,7 +70,9 @@ Teaching
   {% endfor %}</ul>
 </div>
 
-Service and leadership
+***
+
+Service and Leadership
 ======
 * Reviewer: IEEE TCOM, TWC, IEEE TVT, IEEE TNSM, IEEE Network, IET Communications, IEEE Globecom, IEEE ICC
 * Session Chiar: IWQoS 2021 (Session 14-Systems)
